@@ -1,0 +1,42 @@
+*{
+    background-color: white ;
+}
+
+
+
+
+h1 {
+    color: green;
+    font-size:5em;;
+}
+h2{
+    background-color: coral;
+    color: red;
+    font-size:2em 
+}
+h3{
+    background-color: darkorchid;
+    color: blue;
+}
+h4{
+    background-color: grey;
+    color: black;
+}
+h5{
+    background-color: bisque;
+    color: yellow
+}
+h6{
+    background-color: darkslategray;
+    color: violet;
+}
+#agarroh4{
+    background-color: chartreuse;
+}
+ .nuevaclase {
+    background-color: beige;
+    color: rgb(30, 160, 41, 0,7);
+ }
+    .subrrayado {
+    text-decoration: underline;
+ }
